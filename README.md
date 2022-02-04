@@ -34,6 +34,6 @@
 ## Stats:
 <div align="center">
    <a href="https://github.com/DevPhelipeB">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPhelipeB&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPhelipeB&layout=compact&langs_count=7&theme=react"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevPhelipeB&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPhelipeB&layout=compact&langs_count=7&theme=react"/>
 </div>
