@@ -17,7 +17,7 @@
 
 ## Soft Skills:
 <div align="justify">
-    Constantemente envolvido com entregas de resultados e com prazos pré-estabelecidos, estou me desenvolvendo com disciplina e foco no diferencial e meu poder analítico, trabalhar em equipe sempre buscando soluções inovadoras e melhoria contínua no projeto que estou atribuído. Tenho respeito como princípio de tudo na vida. 
+    Constantemente envolvido com entregas de resultados e com prazos pré-estabelecidos, estou me desenvolvendo com disciplina e foco na qualidade e meu poder analítico, trabalhar em equipe sempre buscando soluções inovadoras e melhoria contínua no projeto que estou atribuído. Tenho empatia e respeito como princípios. 
 <div>
     
 ## Hard Skills: 
