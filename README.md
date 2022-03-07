@@ -7,12 +7,13 @@
  - ⚠ Em transição de carreira.
 
 ## Contato:
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito:phelipe.balbino@gmail.com)
   [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phelipebalbino/)
   [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:devphelipe@outlook.com)
 <br>
 
 ## Perfil de estudos extras:
-   [![DevMedia](https://img.shields.io/website?label=devmedia.com.br&style=for-the-badge&url=https://www.devmedia.com.br/perfil/phelipe-16)](https://www.devmedia.com.br/perfil/phelipe-16)
+[![DevMedia](https://img.shields.io/website?label=devmedia.com.br&style=for-the-badge&url=https://www.devmedia.com.br/perfil/phelipe-16)](https://www.devmedia.com.br/perfil/phelipe-16) 
 [![DigitalOneInnovation](https://img.shields.io/website?label=digitalinnovation.one&style=for-the-badge&url=https://digitalinnovation.one/)](https://web.dio.me/users/phelipe_balbino) 
 
 ## Soft Skills:
