@@ -4,8 +4,7 @@
  - 📌 Estudante de Sistemas de Informação, objetivo Desenvolvedor Back-End.
  - 📚 No momento focado na linguagem de programação Java.
  - ✔ Técnico em Informática para Internet (Desenvolvedor Web FullStack).
- - ⚠ Em transição de carreira.
-
+ 
 ## Contato:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phelipe.balbino@gmail.com)
   [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phelipebalbino/)
