@@ -2,7 +2,7 @@
 ### Olá, Eu sou o Phelipe Balbino Alves! ✌️
 
  - 📌 Estudante de Sistemas de Informação, objetivo Desenvolvedor Back-End.
- - 📚 No momento focado na linguagem de programação Java.
+ - 📚 No momento focado na linguagem de programação C#.
  - ✔ Técnico em Informática para Internet (Desenvolvedor Web FullStack).
  
 ## Contato:
