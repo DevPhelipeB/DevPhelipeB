@@ -1,8 +1,8 @@
 
 ### Olá, Eu sou o Phelipe Balbino Alves! ✌️
 
- - 📌 Estudante de Sistemas de Informação, objetivo Desenvolvedor Back-End.
- - 📚 Desenvolvimento de software.
+ - 📌 Estudante de Sistemas de Informação
+ - 📚 Arquitetura de software
  - ✔ Técnico em Informática para Internet (Desenvolvedor Web FullStack).
  
 ## Contato:
